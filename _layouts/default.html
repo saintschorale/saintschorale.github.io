@@ -58,6 +58,12 @@
 					<a href="{{ site.baseurl }}/contact/">Contact us</a> today to find out how we can help you. Your first consultation is free.
 				</p>
 			</section>
+		{% elsif page.call_to_action == 'Donate' %}
+			<section class="quote-section">
+				<p class="container editable">
+					<a href="{{ site.baseurl }}/contact/">Donate</a> today to support our mission.
+				</p>
+			</section>
 		{% else %}
 			<section class="quote-section">
 				<p class="container editable">
@@ -105,7 +111,7 @@
 					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }} &bull;
 					<a href="{{ site.baseurl }}/terms/">Terms</a>
 					&bull;
-					Template by <a href="http://cloudcannon.com/">CloudCannon</a>
+					<a href="{{ site.baseurl }}/privacy/">Privacy</a>
 				</p>
 			</div>
 		</footer>
