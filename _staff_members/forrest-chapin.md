@@ -2,6 +2,7 @@
 name: Forrest Chapin
 image: "/images/staff_members/forrest-chapin.jpg"
 credentials: Founder, Director, Composer
+staff_order: 1
 ---
 
 Forrest Chapin II founded the Arizona Saints Chorale in 2018 and continues as

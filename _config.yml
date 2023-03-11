@@ -10,17 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: |
-  A 501(c)(3) choral group raising awareness for noble charities in
-  the area.
+description:  |
+  A 501(c)(3) choral group motivated by a love for Jesus Christ to raise
+  awareness for noble charities in our local communities.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Joseph Hale
+  email: me@jhale.dev
+  twitter: jhaledev
 social:
-  name: Justice Template
+  name: Arizona Saints Chorale
   links:
-    - https://github.com/CloudCannon/justice-jekyll-template
+    - https://www.facebook.com/Arizona-Saints-Chorale-400769617380984
+    - https://www.facebook.com/100069341468507
+    - https://www.youtube.com/channel/UCx0cho18Vrux7ApLNJkY8Gg
+    - https://www.instagram.com/arizonasaintschorale
 
 # -----
 # Build
@@ -39,8 +42,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/building.jpg
-      image: /uploads/building.jpg
+      background_image_path: /uploads/crest.jpg
+      image: /uploads/crest.jpg
   -
     scope:
       path: ""
@@ -88,7 +91,7 @@ exclude:
 _select_data:
   call_to_actions:
     - Contact
-    - Blog
+    - Learn
     - Map
 
   social_icons:

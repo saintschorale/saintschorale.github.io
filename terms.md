@@ -6,93 +6,88 @@ large_header: false
 show_in_navigation: false
 ---
 
-This is usually where the fine print would go, but here's part of the Wikipedia entry on dogs instead:
+These terms and conditions (the "Terms and Conditions") govern the use of
+[saintschorale.org](https://saintschorale.org). This Site is owned and
+operated by the Arizona Saints Chorale.
 
----
+By using this Site, you indicate that you have read and understand these Terms
+and Conditions and agree to abide by them at all times.
 
-From Wikipedia, the free encyclopedia
+_Last Updated_: 11 March 2023
 
-This article is about the domestic dog. For related species known as "dogs", see Canidae.
+_Effective Date_: 11 March 2023
 
-"Doggie" redirects here. For the Danish artist, see Doggie (artist).
+_Version_: 1.1.0
 
-- Conservation status
-- Domesticated
-- Scientific classification e
-- Kingdom: Animalia
-- Phylum: Chordata
-- Class: Mammalia
-- Order: Carnivora
-- Suborder: Caniformia
-- Family: Canidae
-- Genus: Canis
-- Species: C. lupus
-- Subspecies: C. l. familiaris[1]
-- Trinomial name
-- Canis lupus familiaris[1]
+### Intellectual Property
+All content published and made available on our Site is the property of the
+Arizona Saints Chorale and the Site's creators. This includes, but is not
+limited to images, text, logos, documents, downloadable files and anything that
+contributes to the composition of our Site.
 
-Montage showing the morphological variation of the dog.
-The domestic dog (Canis lupus familiaris or Canis familiaris)[2] is a domesticated canine which has been selectively bred over millennia for various behaviours, sensory capabilities, and physical attributes.[3]
+### User Contributions
+Users may post the following information on our Site:
+  - Public comments.
 
-Although initially thought to have originated as an artificial variant of an extant canid species (variously supposed as being the dhole,[4] golden jackal,[5] or gray wolf[6]), extensive genetic studies undertaken during the 2010s indicate that dogs diverged from an extinct wolf-like canid in Eurasia 40,000 years ago.[7] Their long association with humans has led to dogs being uniquely attuned to human behavior[8] and are able to thrive on a starch-rich diet which would be inadequate for other canid species.[9] Dogs are also the oldest domesticated animal. Dogs vary widely in shape, size and colours.[10]
+By posting publicly on our Site, you agree not to act illegally or violate these
+Terms and Conditions.
 
-Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship and, more recently, aiding handicapped individuals. This influence on human society has given them the sobriquet, "man's best friend".
+### Third Party Goods and Services
+Our Site may offer goods and services from third parties. We cannot guarantee
+the quality or accuracy of goods and services made available by third parties on
+our Site.
 
-### Etymology
+### User Goods and Services
+Our Site may allow users to sell goods and services. We do not assume any
+responsibility for the goods and services users sell on our Site. We cannot
+guarantee the quality or accuracy of any goods and services sold by users on our
+Site. However, if we are made aware that a user is violating these Terms and
+Conditions, we reserve the right to suspend or prohibit the user from selling
+goods and services on our Site.
 
-The term "domestic dog" is generally used for both domesticated and feral varieties. The English word dog comes from Middle English dogge, from Old English docga, a "powerful dog breed".[11] The term may possibly derive from Proto-Germanic *dukkōn, represented in Old English finger-docce ("finger-muscle").[12] The word also shows the familiar petname diminutive -ga also seen in frogga "frog", picga "pig", stagga "stag", wicga "beetle, worm", among others.[13] The term dog may ultimately derive from the earliest layer of Proto-Indo-European vocabulary.[14]
 
-In 14th-century England, hound (from Old English: hund) was the general word for all domestic canines, and dog referred to a subtype of hound, a group including the mastiff. It is believed this "dog" type was so common, it eventually became the prototype of the category "hound".[15] By the 16th century, dog had become the general word, and hound had begun to refer only to types used for hunting.[16] The word "hound" is ultimately derived from the Proto-Indo-European word *kwon-, "dog".[17] This semantic shift may be compared to in German, where the corresponding words Dogge and Hund kept their original meanings.
+### Links to Other Websites
+Our Site contains links to third party websites or services that we do not own
+or control. We are not responsible for the content, policies, or practices of
+any third party website or service linked to on our Site. It is your
+responsibility to read the terms and conditions and privacy policies of these
+third party websites before using these sites.
 
-A male canine is referred to as a dog, while a female is called a bitch. The father of a litter is called the sire, and the mother is called the dam. (Middle English bicche, from Old English bicce, ultimately from Old Norse bikkja) The process of birth is whelping, from the Old English word hwelp; the modern English word "whelp" is an alternate term for puppy.[18] A litter refers to the multiple offspring at one birth which are called puppies or pups from the French poupée, "doll", which has mostly replaced the older term "whelp".[19]
 
-### Taxonomy
+### Limitation of Liability
+The Arizona Saints Chorale and its directors, officers, agents, employees,
+subsidiaries, and affiliates will not be liable for any actions, claims, losses,
+damages, liabilities and expenses including legal fees from your use of the
+Site.
 
-The dog is classified as Canis lupus familiaris under the Biological Species Concept and Canis familiaris under the Evolutionary Species Concept.[2]:p1
 
-In 1758, the taxonomist Linnaeus published in Systema Naturae a categorization of species which included the Canis species. Canis is a Latin word meaning dog,[20] and the list included the dog-like carnivores: the domestic dog, wolves, foxes and jackals. The dog was classified as Canis familiaris,[21] which means "Dog-family"[22] or the family dog. On the next page he recorded the wolf as Canis lupus, which means "Dog-wolf".[23] In 1978, a review aimed at reducing the number of recognized Canis species proposed that "Canis dingo is now generally regarded as a distinctive feral domestic dog. Canis familiaris is used for domestic dogs, although taxonomically it should probably be synonymous with Canis lupus."[24] In 1982, the first edition of Mammal Species of the World listed Canis familiaris under Canis lupus with the comment: "Probably ancestor of and conspecific with the domestic dog, familiaris. Canis familiaris has page priority over Canis lupus, but both were published simultaneously in Linnaeus (1758), and Canis lupus has been universally used for this species",[25] which avoided classifying the wolf as the family dog. The dog is now listed among the many other Latin-named subspecies of Canis lupus as Canis lupus familiaris.[1]
+### Indemnity
+Except where prohibited by law, by using this Site you indemnify and hold
+harmless the Arizona Saints Chorale and its directors, officers, agents,
+employees, subsidiaries, and affiliates from any actions, claims, losses,
+damages, liabilities and expenses including legal fees arising out of your use
+of our Site or your violation of these Terms and Conditions.
 
-In 2003, the ICZN ruled in its Opinion 2027 that if wild animals and their domesticated derivatives are regarded as one species, then the scientific name of that species is the scientific name of the wild animal. In 2005, the third edition of Mammal Species of the World upheld Opinion 2027 with the name Lupus and the note: "Includes the domestic dog as a subspecies, with the dingo provisionally separate - artificial variants created by domestication and selective breeding".[1][26] However, Canis familiaris is sometimes used due to an ongoing nomenclature debate because wild and domestic animals are separately recognizable entities and that the ICZN allowed users a choice as to which name they could use,[27] and a number of internationally recognized researchers prefer to use Canis familiaris.[28]
 
-Later genetic studies strongly supported dogs and gray wolves forming two sister monophyletic clades within the one species,[29][30] and that the common ancestor of dogs and extant wolves is extinct.[30]
+### Applicable Law
+These Terms and Conditions are governed by the laws of the State of Arizona.
 
-### Origin
 
-The origin of the domestic dog (Canis lupus familiaris or Canis familiaris) is not clear. Whole genome sequencing indicates that the dog, the gray wolf and the extinct Taymyr wolf diverged at around the same time 27,000–40,000 years ago.[7] These dates imply that the earliest dogs arose in the time of human hunter-gatherers and not agriculturists.[30] Modern dogs are more closely related to ancient wolf fossils that have been found in Europe than they are to modern gray wolves.[31] Nearly all dog breeds' genetic closeness to the gray wolf are due to admixture,[30] except several Arctic dog breeds are close to the Taimyr wolf of North Asia due to admixture.[7]
+### Severability
+If at any time any of the provisions set forth in these Terms and Conditions are
+found to be inconsistent or invalid under applicable laws, those provisions will
+be deemed void and will be removed from these Terms and Conditions. All other
+provisions will not be affected by the removal and the rest of these Terms and
+Conditions will still be considered valid.
 
-### Terminology
 
-The term dog typically is applied both to the species (or subspecies) as a whole, and any adult male member of the same.
-An adult female is a bitch. In some countries, especially in North America, dog is used instead due to the vulgar connotation of bitch.
-An adult male capable of reproduction is a stud.
-An adult female capable of reproduction is a brood bitch, or brood mother.
-Immature males or females (that is, animals that are incapable of reproduction) are pups or puppies.
-A group of pups from the same gestation period is a litter.
-The father of a litter is a sire. It is possible for one litter to have multiple sires.
-The mother of a litter is a dam.
-A group of any three or more adults is a pack.
+### Changes
+These Terms and Conditions may be amended from time to time in order to maintain
+compliance with the law and to reflect any changes to the way we operate our
+Site and the way we expect users to behave on our Site. We will notify users by
+email of changes to these Terms and Conditions or post a notice on our Site.
 
-### Biology
 
-#### Anatomy
-
-Domestic dogs have been selectively bred for millennia for various behaviors, sensory capabilities, and physical attributes.[3] Modern dog breeds show more variation in size, appearance, and behavior than any other domestic animal.[3] Dogs are predators and scavengers, and like many other predatory mammals, the dog has powerful muscles, fused wrist bones, a cardiovascular system that supports both sprinting and endurance, and teeth for catching and tearing.
-
-#### Size and weight
-
-Dogs are highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3 cm (2.5 in) at the shoulder, 9.5 cm (3.7 in) in length along the head-and-body, and weighed only 113 grams (4.0 oz). The largest known dog was an English Mastiff which weighed 155.6 kg (343 lb) and was 250 cm (98 in) from the snout to the tail.[32] The tallest dog is a Great Dane that stands 106.7 cm (42.0 in) at the shoulder.[33]
-
-#### Senses
-
-The dog's senses include vision, hearing, sense of smell, sense of taste, touch and sensitivity to the earth's magnetic field. Another study suggested that dogs can see the earth's magnetic field.[34][35]
-
-#### Coat
-
-Montage showing the coat variation of the dog.
-The coats of domestic dogs are of two varieties: "double" being common with dogs (as well as wolves) originating from colder climates, made up of a coarse guard hair and a soft down hair, or "single", with the topcoat only.
-
-Domestic dogs often display the remnants of countershading, a common natural camouflage pattern. A countershaded animal will have dark coloring on its upper surfaces and light coloring below,[36] which reduces its general visibility. Thus, many breeds will have an occasional "blaze", stripe, or "star" of white fur on their chest or underside.[37]
-
-#### Tail
-
-There are many different shapes for dog tails: straight, straight up, sickle, curled, or cork-screw. As with many canids, one of the primary functions of a dog's tail is to communicate their emotional state, which can be important in getting along with others. In some hunting dogs, however, the tail is traditionally docked to avoid injuries.[38] In some breeds, such as the Braque du Bourbonnais, puppies can be born with a short tail or no tail at all.[39]
+### Contact Details
+Please contact us if you have any questions or concerns. Our contact details are
+as follows: [arizona@saintschorale.org](mailto:arizona@saintschorale.org)

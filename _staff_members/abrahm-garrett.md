@@ -2,6 +2,7 @@
 name: Abrahm Garrett
 image: "/images/staff_members/abrahm-garrett.jpg"
 credentials: Director
+staff_order: 2
 ---
 
 Abrahm Garrett joined the Arizona Saints Chorale in 2021 as the director of the

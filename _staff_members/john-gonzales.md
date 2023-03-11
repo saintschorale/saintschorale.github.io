@@ -2,6 +2,7 @@
 name: John Gonzales
 image: "/images/staff_members/john-gonzales.jpg"
 credentials: Director, Composer
+staff_order: 3
 ---
 
 John Gonzales, a California native, has sung in and conducted choirs since high

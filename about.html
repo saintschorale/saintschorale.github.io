@@ -18,7 +18,8 @@ navigation_order: 1
 <p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Update Staff Members</a></p>
 
 <ul class="staff-list">
-	{% for member in site.staff_members %}
+  {% assign sorted_staff_members = site.staff_members | sort: 'staff_order' %}
+	{% for member in sorted_staff_members %}
 		<li class="staff">
 			<div class="staff-details">
 				<div class="staff-image">
