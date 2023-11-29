@@ -11,12 +11,12 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description:  |
-  A choral group motivated by a love for Jesus Christ to raise
-  awareness for noble charities in our local communities.
+  A 501(c)(3) non-profit choral group motivated by a love for Jesus Christ to
+  raise awareness for noble charities in our local communities.
 author:
   name: Joseph Hale
   email: me@jhale.dev
-  twitter: jhaledev
+  linkedin: thehale
 social:
   name: Arizona Saints Chorale
   links:
