@@ -30,7 +30,9 @@
 	<body>
 		<header {% if page.large_header %}class="main-hero"{% endif %}>
 			<div class="container">
-        <img src="{{ page.background_image_path }}"/>
+        {% if page.large_header %}
+          <img src="{{ page.background_image_path }}"/>
+        {% endif %}
 				<h1><a href="{{ site.baseurl }}/">{{ site.data.company.title }}</a></h1>
 				<nav>
 					<ul>
