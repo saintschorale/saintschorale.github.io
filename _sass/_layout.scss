@@ -22,20 +22,25 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: calc(50% - 40px) 175px;
-    height: 420px;
     box-sizing: border-box;
 
     .container {
         text-align: center;
     }
 
+    img {
+        max-height: 15vh;
+    }
+    
     @media (min-width: $mobile-break) {
         background-size: contain;
-        background-position: calc(50% - 300px) calc(100% + 20px);
-
+        background-position: calc(50% - 400px) calc(100% + 20px);
+        img {
+            max-height: 20vh;
+        }
         &.main-hero {
             height: 80vh;
-            background-position: calc(50% - 350px) calc(100% + 20px);
+            background-position: calc(50% - 400px) calc(100% + 20px);
         }
 
         .container {

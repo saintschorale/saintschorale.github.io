@@ -42,8 +42,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/crest.jpg
-      image: /uploads/crest.jpg
+      background_image_path: /uploads/crest.png
+      image: /uploads/crest.png
   -
     scope:
       path: ""
