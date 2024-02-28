@@ -6,6 +6,7 @@ author_staff_member: forrest-chapin
 large_header: false
 redirect_from:
  - /2018/12/20/born-is-the-king
+ - /2018/12/20/born-is-the-king/
 ---
 
 Watch the concert where it all began! This is the day we put together our first

@@ -6,6 +6,7 @@ author_staff_member: kamryn-heiner
 large_header: false
 redirect_from:
  - /2022/12/16/god-above-all
+ - /2022/12/16/god-above-all/
 ---
 
 ASC Winter 2022 Concert

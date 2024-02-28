@@ -6,6 +6,7 @@ author_staff_member: kamryn-heiner
 large_header: false
 redirect_from:
  - /2020/12/20/a-merry-little-christmas
+ - /2020/12/20/a-merry-little-christmas/
 ---
 
 This Christmas, Arizona Saints Chorale has partnered up with Child Crisis
