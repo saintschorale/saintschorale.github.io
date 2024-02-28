@@ -10,6 +10,8 @@
       link: /contact/
     - name: Donate
       link: /donate/
+    - name: Press
+      link: /press/
 - title: Social
   links:
     - name: Facebook

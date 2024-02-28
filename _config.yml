@@ -37,6 +37,8 @@ collections:
   staff_members:
   concerts:
     output: true
+  press:
+    output: true
 
 defaults:
   -
@@ -52,6 +54,18 @@ defaults:
       type: "concerts"
     values:
       layout: concert
+      _options:
+        content:
+          width: 960
+          height: 2000
+      _comments:
+        image: Shown in social shares and the blog list.
+  -
+    scope:
+      path: ""
+      type: "press"
+    values:
+      layout: post
       _options:
         content:
           width: 960
