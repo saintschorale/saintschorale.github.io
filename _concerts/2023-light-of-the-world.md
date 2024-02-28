@@ -23,7 +23,9 @@ Kids](https://raisingspecialkids.org/) which "exists to improve the lives of
 children with the full range of disabilities."
 
 We are also excited to announce that [the Chorale is now an official 501(c)(3)
-nonprofit](https://apps.irs.gov/pub/epostcard/dl/FinalLetter_93-3531070_THESAINTSCHORALEINC_09212023_00.pdf), meaning your generous donations are now tax-deductible!
+nonprofit](https://apps.irs.gov/pub/epostcard/dl/FinalLetter_93-3531070_THESAINTSCHORALEINC_09212023_00.pdf),
+meaning your [generous donations]({% link donate.html %}) are now
+tax-deductible!
 
 ### Event Details
  - All ages are welcome
