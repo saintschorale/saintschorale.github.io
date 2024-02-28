@@ -4,6 +4,8 @@ concert_date: 2021-04-17
 image: /images/concerts/in-god-we-trust.jpg
 author_staff_member: kamryn-heiner
 large_header: false
+redirect_from:
+ - /2021/04/17/in-god-we-trust
 ---
 
 ASC Spring 2021 Concert at the Mesa Institute.

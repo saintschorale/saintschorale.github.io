@@ -4,6 +4,8 @@ concert_date: 2022-05-14
 image: /images/concerts/sunshine-in-my-soul.jpg
 author_staff_member: forrest-chapin
 large_header: false
+redirect_from:
+ - /2022/05/14/sunshine-in-my-soul
 ---
 
 ASC Spring 2022 Concert

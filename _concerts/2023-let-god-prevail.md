@@ -5,6 +5,8 @@ concert_date: 2023-05-20
 author_staff_member: joseph-hale
 image: /images/concerts/let-god-prevail.jpg
 large_header: false
+redirect_from:
+ - /2023/03/11/let-god-prevail
 ---
 
 Join the Arizona Saints Chorale for our Spring 2023 concert "Let God Prevail"

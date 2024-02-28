@@ -4,6 +4,8 @@ concert_date: 2021-12-10
 image: /images/concerts/hosanna.jpg
 author_staff_member: forrest-chapin
 large_header: false
+redirect_from:
+ - /2021/12/10/hosanna
 ---
 
 Arizona Saints Chorale is a charity choir based in the East Valley. Our purpose is to prepare the world for Christ's second coming and build His kingdom on the earth. We do this both by testifying through song and by donating to charity. Each concert, 70% of the proceeds go to a sponsored charity. Past charities include Jacob's Hope, Child Crisis Arizona, Veterans for Veterans, and more.
