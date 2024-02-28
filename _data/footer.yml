@@ -8,10 +8,10 @@
       link: /concerts/
     - name: Contact
       link: /contact/
-    - name: Donate
-      link: /donate/
     - name: Press
       link: /press/
+    - name: Donate
+      link: /donate/
 - title: Social
   links:
     - name: Facebook
