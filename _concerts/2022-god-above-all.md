@@ -1,7 +1,8 @@
 ---
 title: God Above All | Winter 2022
-author_staff_member: kamryn-heiner
+concert_date: 2022-12-16
 image: /images/concerts/god-above-all.jpg
+author_staff_member: kamryn-heiner
 large_header: false
 ---
 

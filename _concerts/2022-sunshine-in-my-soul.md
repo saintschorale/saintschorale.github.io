@@ -1,7 +1,8 @@
 ---
 title: Sunshine in My Soul | Spring 2022
-author_staff_member: forrest-chapin
+concert_date: 2022-05-14
 image: /images/concerts/sunshine-in-my-soul.jpg
+author_staff_member: forrest-chapin
 large_header: false
 ---
 

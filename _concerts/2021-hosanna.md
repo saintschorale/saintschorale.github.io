@@ -1,7 +1,8 @@
 ---
 title: Hosanna | Winter 2021
-author_staff_member: forrest-chapin
+concert_date: 2021-12-10
 image: /images/concerts/hosanna.jpg
+author_staff_member: forrest-chapin
 large_header: false
 ---
 

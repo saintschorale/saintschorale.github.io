@@ -1,6 +1,7 @@
 ---
 title: Let God Prevail | Spring 2023
 date: 2023-03-11
+concert_date: 2023-05-20
 author_staff_member: joseph-hale
 image: /images/concerts/let-god-prevail.jpg
 large_header: false

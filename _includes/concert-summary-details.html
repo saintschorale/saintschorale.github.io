@@ -1,0 +1,16 @@
+<p class="post-summary-details">
+	{{ include.post.concert_date | date: '%B %d, %Y' }}
+  {% if include.post.concert_end_date %}
+	  - {{ include.post.concert_end_date | date: '%B %d, %Y' }}
+  {% endif %}
+
+	{% assign categories_size = include.post.categories | size %}
+	{% if categories_size > 0 %}
+		&bull;
+	{% endif %}
+
+	{% for category in include.post.categories %}
+		{% unless forloop.first %}&bull;{% endunless %}
+		<a class="post-summary-category" href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
+	{% endfor %}
+</p>

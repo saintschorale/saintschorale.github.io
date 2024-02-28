@@ -1,7 +1,8 @@
 ---
 title: In God We Trust | Spring 2021
-author_staff_member: kamryn-heiner
+concert_date: 2021-04-17
 image: /images/concerts/in-god-we-trust.jpg
+author_staff_member: kamryn-heiner
 large_header: false
 ---
 

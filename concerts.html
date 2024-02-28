@@ -1,0 +1,20 @@
+---
+title: Concerts
+call_to_action: Donate
+background_image_path:
+large_header: false
+show_in_navigation: true
+navigation_order: 2
+---
+
+<p class="editable">Attend one of our bi-annual concerts, or look back on our
+past performances.</p>
+
+<p class="editor-link"><a href="cloudcannon:collections/_concerts" class="btn"><strong>&#9998;</strong> Update Posts</a></p>
+
+<ol class="post-list">
+  {% assign concerts = site.concerts | reverse %}
+	{% for item in concerts %}
+		{% include post-summary.html post=item summary_type="concert" %}
+	{% endfor %}
+</ol>

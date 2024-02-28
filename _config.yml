@@ -34,7 +34,9 @@ paginate: 10
 paginate_path: "/concerts/:num/"
 
 collections:
-  - "staff_members"
+  staff_members:
+  concerts:
+    output: true
 
 defaults:
   -
@@ -44,6 +46,18 @@ defaults:
       layout: page
       background_image_path: /uploads/crest.png
       image: /uploads/crest.png
+  -
+    scope:
+      path: ""
+      type: "concerts"
+    values:
+      layout: concert
+      _options:
+        content:
+          width: 960
+          height: 2000
+      _comments:
+        image: Shown in social shares and the blog list.
   -
     scope:
       path: ""

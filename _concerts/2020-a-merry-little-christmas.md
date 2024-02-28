@@ -1,7 +1,8 @@
 ---
 title: A Merry Little Christmas | Winter 2020
-author_staff_member: kamryn-heiner
+concert_date: 2020-12-20
 image: /images/concerts/a-merry-little-christmas.png
+author_staff_member: kamryn-heiner
 large_header: false
 ---
 

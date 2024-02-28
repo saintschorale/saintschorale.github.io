@@ -1,7 +1,8 @@
 ---
 title: Born is the King | Winter 2018
-author_staff_member: forrest-chapin
+concert_date: 2018-12-20
 image: /images/concerts/born-is-the-king.png
+author_staff_member: forrest-chapin
 large_header: false
 ---
 

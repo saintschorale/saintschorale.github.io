@@ -1,7 +1,8 @@
 ---
 title: Look Unto Me | Spring 2019
-author_staff_member: forrest-chapin
+concert_date: 2019-06-01
 image: /images/concerts/look-unto-me.jpg
+author_staff_member: forrest-chapin
 large_header: false
 ---
 

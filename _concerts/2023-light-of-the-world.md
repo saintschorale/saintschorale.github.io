@@ -1,6 +1,7 @@
 ---
 title: Light of the World | Winter 2023
-date: 2023-11-28
+concert_date: 2023-12-15
+concert_end_date: 2023-12-16
 author_staff_member: joseph-hale
 image: /images/concerts/light-of-the-world.png
 large_header: false

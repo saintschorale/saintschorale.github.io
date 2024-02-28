@@ -1,0 +1,6 @@
+{% if include.post.image %}
+  <div class="post-summary-image" align="center">
+    <img src="{% include relative-src.html src=include.post.image %}" alt="Photo
+    of {{ include.post.title }}" width="100%">
+  </div>
+{% endif %}
