@@ -2,7 +2,7 @@
 name: Kamryn Heiner
 image: "/images/staff_members/kamryn-heiner.jpg"
 credentials: Co-Founder, Former Director
-staff_order: 6
+staff_order: 5
 ---
 
 Kamryn Heiner co-founded the Arizona Saints Chorale with Forrest Chapin II in
