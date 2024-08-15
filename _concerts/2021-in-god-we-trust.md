@@ -2,7 +2,7 @@
 title: In God We Trust | Spring 2021
 concert_date: 2021-04-17
 image: /images/concerts/in-god-we-trust.jpg
-author_staff_member: kamryn-heiner
+author_staff_member: forrest-chapin
 large_header: false
 redirect_from:
  - /2021/04/17/in-god-we-trust

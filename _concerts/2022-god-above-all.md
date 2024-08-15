@@ -2,7 +2,7 @@
 title: God Above All | Winter 2022
 concert_date: 2022-12-16
 image: /images/concerts/god-above-all.jpg
-author_staff_member: kamryn-heiner
+author_staff_member: forrest-chapin
 large_header: false
 redirect_from:
  - /2022/12/16/god-above-all

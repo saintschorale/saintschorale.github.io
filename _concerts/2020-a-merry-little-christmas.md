@@ -2,7 +2,7 @@
 title: A Merry Little Christmas | Winter 2020
 concert_date: 2020-12-20
 image: /images/concerts/a-merry-little-christmas.png
-author_staff_member: kamryn-heiner
+author_staff_member: forrest-chapin
 large_header: false
 redirect_from:
  - /2020/12/20/a-merry-little-christmas
