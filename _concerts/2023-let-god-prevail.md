@@ -5,6 +5,7 @@ concert_date: 2023-05-20
 author_staff_member: joseph-hale
 image: /images/concerts/let-god-prevail.jpg
 large_header: false
+call_to_action: Tickets
 redirect_from:
  - /2023/03/11/let-god-prevail
  - /2023/03/11/let-god-prevail/

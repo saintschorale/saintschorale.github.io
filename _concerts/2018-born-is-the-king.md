@@ -4,6 +4,7 @@ concert_date: 2018-12-20
 image: /images/concerts/born-is-the-king.png
 author_staff_member: forrest-chapin
 large_header: false
+call_to_action: Tickets
 redirect_from:
  - /2018/12/20/born-is-the-king
  - /2018/12/20/born-is-the-king/

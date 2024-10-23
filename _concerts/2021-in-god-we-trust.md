@@ -4,6 +4,7 @@ concert_date: 2021-04-17
 image: /images/concerts/in-god-we-trust.jpg
 author_staff_member: forrest-chapin
 large_header: false
+call_to_action: Tickets
 redirect_from:
  - /2021/04/17/in-god-we-trust
  - /2021/04/17/in-god-we-trust/

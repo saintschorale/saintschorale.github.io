@@ -4,6 +4,7 @@ concert_date: 2021-12-10
 image: /images/concerts/hosanna.jpg
 author_staff_member: forrest-chapin
 large_header: false
+call_to_action: Tickets
 redirect_from:
  - /2021/12/10/hosanna
  - /2021/12/10/hosanna/

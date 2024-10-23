@@ -4,6 +4,7 @@ concert_date: 2022-05-14
 image: /images/concerts/sunshine-in-my-soul.jpg
 author_staff_member: forrest-chapin
 large_header: false
+call_to_action: Tickets
 redirect_from:
  - /2022/05/14/sunshine-in-my-soul
  - /2022/05/14/sunshine-in-my-soul/

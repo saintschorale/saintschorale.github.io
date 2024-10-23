@@ -10,4 +10,6 @@ image: /images/favicon
 
 concert_start_date:
 concert_end_date:
+
+call_to_action: Tickets
 ---

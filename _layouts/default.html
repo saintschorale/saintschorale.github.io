@@ -48,13 +48,7 @@
 			</div>
 		</header>
 
-		<section class="main">
-			<div class="container">
-				{{ content }}
-			</div>
-		</section>
-
-		{% if page.call_to_action == 'Map' and site.google_maps_javascript_api_key %}
+    {% if page.call_to_action == 'Map' and site.google_maps_javascript_api_key %}
 			<section class="map-section">
 				<div id="map"></div>
 			</section>
@@ -71,6 +65,12 @@
 					<a href="{{ site.baseurl }}/donate/">Donate</a> today to support our mission.
 				</p>
 			</section>
+		{% elsif page.call_to_action == 'Tickets' %}
+			<section class="quote-section">
+				<p class="container editable">
+					<a href="{{ site.baseurl }}/tickets/">Buy Tickets</a> for our upcoming concert.
+				</p>
+			</section>
 		{% else %}
 			<section class="quote-section">
 				<p class="container editable">
@@ -78,6 +78,12 @@
 				</p>
 			</section>
 		{% endif %}
+
+		<section class="main">
+			<div class="container">
+				{{ content }}
+			</div>
+		</section>
 
 		<footer>
 			<div class="container">

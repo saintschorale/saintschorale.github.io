@@ -5,6 +5,7 @@ concert_end_date: 2023-12-16
 author_staff_member: joseph-hale
 image: /images/concerts/light-of-the-world.png
 large_header: false
+call_to_action: Tickets
 redirect_from:
  - /2023/11/28/light-of-the-world
  - /2023/11/28/light-of-the-world/

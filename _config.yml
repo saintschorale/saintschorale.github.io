@@ -121,6 +121,7 @@ _select_data:
   call_to_actions:
     - Contact
     - Learn
+    - Tickets
     - Map
 
   social_icons:

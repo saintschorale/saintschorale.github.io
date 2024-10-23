@@ -4,6 +4,7 @@ concert_date: 2024-03-17
 author_staff_member: joseph-hale
 image: /images/concerts/2024-easter-devotional.jpg
 large_header: false
+call_to_action: Tickets
 ---
 
 The Arizona Saints Chorale has been invited to participate in an interfaith

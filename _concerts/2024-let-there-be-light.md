@@ -5,6 +5,7 @@ concert_end_date: 2024-05-11
 author_staff_member: joseph-hale
 image: /images/concerts/let-there-be-light.png
 large_header: false
+call_to_action: Tickets
 ---
 
 Bring your family and friends to the Arizona Saints Chorale's Spring 2024

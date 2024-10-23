@@ -4,6 +4,7 @@ concert_date: 2019-06-01
 image: /images/concerts/look-unto-me.jpg
 author_staff_member: forrest-chapin
 large_header: false
+call_to_action: Tickets
 redirect_from:
  - /2019/06/01/look-unto-me
  - /2019/06/01/look-unto-me/

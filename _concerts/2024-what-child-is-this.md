@@ -5,6 +5,7 @@ concert_end_date: 2024-12-21
 author_staff_member: joseph-hale
 image: /images/press/saints_chorale_performance.jpg
 large_header: false
+call_to_action: Tickets
 ---
 
 Bring your family and friends to the Arizona Saints Chorale's Winter 2024
