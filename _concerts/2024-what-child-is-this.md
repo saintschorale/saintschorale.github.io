@@ -3,7 +3,7 @@ title: What Child is This | Winter 2024
 concert_date: 2024-12-20
 concert_end_date: 2024-12-21
 author_staff_member: joseph-hale
-image: /images/press/saints_chorale_performance.jpg
+image: /images/concerts/what-child-is-this.png
 large_header: false
 call_to_action: Tickets
 ---
