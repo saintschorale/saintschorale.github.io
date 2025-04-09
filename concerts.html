@@ -13,7 +13,7 @@ past performances.</p>
 <p class="editor-link"><a href="cloudcannon:collections/_concerts" class="btn"><strong>&#9998;</strong> Update Posts</a></p>
 
 <ol class="post-list">
-  {% assign concerts = site.concerts | reverse %}
+  {% assign concerts = site.concerts | sort: 'concert_date' | reverse %}
 	{% for item in concerts %}
 		{% include post-summary.html post=item summary_type="concert" %}
 	{% endfor %}
