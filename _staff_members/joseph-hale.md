@@ -1,8 +1,8 @@
 ---
 name: Joseph Hale
 image: "/images/staff_members/joseph-hale.jpg"
-credentials: Board Member
-staff_order: 3
+credentials: Vice President, Board Member
+staff_order: 4
 ---
 
 Joseph Hale started singing with the Arizona Saints Chorale in 2019 as a vocal

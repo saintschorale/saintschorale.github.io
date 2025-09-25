@@ -2,7 +2,7 @@
 name: D. Brennen Martin
 image: "/images/staff_members/brennen-martin.png"
 credentials: Board Member
-staff_order: 4
+staff_order: 5
 ---
 
 D. Brennen Martin has loved learning more about music and vocal performance

@@ -2,7 +2,7 @@
 name: Ashton Parry
 image: "/images/staff_members/ashton-parry.png"
 credentials: Board Member
-staff_order: 4
+staff_order: 6
 ---
 
 Music is something that has been a part of Ashton’s life since she was young.
