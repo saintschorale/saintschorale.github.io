@@ -16,3 +16,8 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+
+# Add in libraries removed from Ruby stdlib
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.3.0"
+gem "bigdecimal", "~> 3.2"
