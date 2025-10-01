@@ -3,7 +3,7 @@ title: Peace on Earth | Winter 2025
 concert_date: 2025-12-19
 concert_end_date: 2025-12-20
 author_staff_member: joseph-hale
-# image: /images/concerts/peace-on-earth.png  # No concert flyer is ready yet
+image: /images/concerts/peace-on-earth.webp
 large_header: false
 call_to_action: Tickets
 ---
