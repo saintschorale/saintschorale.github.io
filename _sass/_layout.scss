@@ -243,7 +243,8 @@ footer {
 
 .testimonials {
     font-size: 1.8rem;
-    display: flex;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
     flex-wrap: wrap;
     margin: 0 -20px;
 }

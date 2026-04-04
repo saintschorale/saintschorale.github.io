@@ -4,6 +4,9 @@ call_to_action: Tickets
 background_image_path:
 large_header: true
 testimonials:
+- message: A fantastic professional chorale!! They put on great concerts to raise money that in turn goes to charitable services and opportunities. Awesome Chorale and can't wait to hear more from them!
+  image: /images/testimonials/dallin-heward.jpg
+  name: Dallin Heward
 - message: This choir produces wonderful music and entertainment!! Well worth your time.
   image: /images/testimonials/valerie-jean.jpg
   name: Valerie Jean
@@ -13,18 +16,16 @@ testimonials:
 - message: Brings a beautiful message with wonderful music.
   image: /images/testimonials/moses-steimle.jpg
   name: Moses Steimle
-- message: A fantastic professional chorale!! They put on great concerts to raise money that in turn goes to charitable services and opportunities. Awesome Chorale and can't wait to hear more from them!
-  image: /images/testimonials/dallin-heward.jpg
-  name: Dallin Heward
 _options:
   image:
     width: 60
     height: 60
 ---
 
-<div class="editable">
-  <p>{{ site.data.company.description }}</p>
-</div>
+{% assign latest_concert = site.concerts | sort: 'concert_date' | reverse | first %}
+{% if latest_concert %}
+  {% include post-summary.html post=latest_concert summary_type="concert" %}
+{% endif %}
 
 <div class="testimonials">
 	{% for testimonial in page.testimonials %}
