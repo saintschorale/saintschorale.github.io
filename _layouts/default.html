@@ -60,14 +60,14 @@
 			{% assign cta_text = 'Learn more about our upcoming concerts.' %}
 
 			{% if page.call_to_action == 'Contact' %}
-				{% assign cta_href = site.baseurl | append: '/contact/' %}
-				{% assign cta_text = 'Contact us today to learn about joining or sponsoring the choir.' %}
+				{% assign cta_href = "mailto:arizona@saintschorale.org" %}
+				{% assign cta_text = 'Contact us!' %}
 			{% elsif page.call_to_action == 'Donate' %}
 				{% assign cta_href = site.baseurl | append: '/donate/' %}
-				{% assign cta_text = 'Donate today to support our mission.' %}
+				{% assign cta_text = 'Donate today!' %}
 			{% elsif page.call_to_action == 'Register' %}
 				{% assign cta_href = site.baseurl | append: '/register/' %}
-				{% assign cta_text = 'Register to join the choir today.' %}
+				{% assign cta_text = 'Join the choir!' %}
 			{% elsif page.call_to_action == 'Tickets' %}
 				{% assign cta_href = site.baseurl | append: '/tickets/' %}
 				{% assign cta_text = 'Buy Concert Tickets!' %}
