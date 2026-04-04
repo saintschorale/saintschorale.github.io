@@ -55,36 +55,28 @@
 			<section class="map-section">
 				<div id="map"></div>
 			</section>
-		{% elsif page.call_to_action == 'Contact' %}
-			<section class="quote-section">
-				<p class="container editable">
-					<a href="{{ site.baseurl }}/contact/">Contact us</a> today to learn
-					about joining or sponsoring the choir.
-				</p>
-			</section>
-		{% elsif page.call_to_action == 'Donate' %}
-			<section class="quote-section">
-				<p class="container editable">
-					<a href="{{ site.baseurl }}/donate/">Donate</a> today to support our mission.
-				</p>
-			</section>
-		{% elsif page.call_to_action == 'Register' %}
-			<section class="quote-section">
-				<p class="container editable">
-					<a href="{{ site.baseurl }}/register/">Register to join</a> the choir today.
-				</p>
-			</section>
-		{% elsif page.call_to_action == 'Tickets' %}
-			<section class="quote-section">
-				<p class="container editable">
-					<a href="{{ site.baseurl }}/tickets/">Buy Tickets</a> for our upcoming concert.
-				</p>
-			</section>
 		{% else %}
+			{% assign cta_href = site.baseurl | append: '/concerts/' %}
+			{% assign cta_text = 'Learn more about our upcoming concerts.' %}
+
+			{% if page.call_to_action == 'Contact' %}
+				{% assign cta_href = site.baseurl | append: '/contact/' %}
+				{% assign cta_text = 'Contact us today to learn about joining or sponsoring the choir.' %}
+			{% elsif page.call_to_action == 'Donate' %}
+				{% assign cta_href = site.baseurl | append: '/donate/' %}
+				{% assign cta_text = 'Donate today to support our mission.' %}
+			{% elsif page.call_to_action == 'Register' %}
+				{% assign cta_href = site.baseurl | append: '/register/' %}
+				{% assign cta_text = 'Register to join the choir today.' %}
+			{% elsif page.call_to_action == 'Tickets' %}
+				{% assign cta_href = site.baseurl | append: '/tickets/' %}
+				{% assign cta_text = 'Buy Concert Tickets!' %}
+			{% endif %}
+
 			<section class="quote-section">
-				<p class="container editable">
-					<a href="{{ site.baseurl }}/concerts/">Learn more</a> about our upcoming concerts.
-				</p>
+				<a class="quote-section-link" href="{{ cta_href }}">
+					<p class="container editable quote-section-button">{{ cta_text }}</p>
+				</a>
 			</section>
 		{% endif %}
 
